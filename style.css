@@ -2,7 +2,7 @@
 .header-bg{
     background-color: #264653;
 }
-.img img{
+.feature-img img{
     cursor: pointer;
     filter: grayscale(100%);
 }
