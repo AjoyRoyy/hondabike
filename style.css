@@ -1,0 +1,14 @@
+/* header background */
+.header-bg{
+    background-color: #264653;
+}
+.img img{
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.user img{
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
